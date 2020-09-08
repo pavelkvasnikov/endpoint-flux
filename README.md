@@ -7,7 +7,7 @@ A simple way to organise API endpoints
 
 Telegram group  https://t.me/endpoint_flux
 
-![Logo](https://github.com/pavelkvasnikov/endpoint-flux/blob/master/logo.svg)
+![Logo](https://svgshare.com/i/PQo.svg)
 
 [![Gem Version](https://badge.fury.io/rb/endpoint-flux.svg)](http://badge.fury.io/rb/endpoint-flux)
 
